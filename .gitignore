@@ -3,3 +3,5 @@ venv/
 output/*.*
 !output/.keep
 .DS_Store
+.vscode/settings.json
+__pycache__
